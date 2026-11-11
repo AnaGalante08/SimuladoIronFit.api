@@ -1,0 +1,6 @@
+@SimuladoIronFit.api_HostAddress = http://localhost:5193
+
+GET {{SimuladoIronFit.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
